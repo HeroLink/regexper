@@ -1,5 +1,14 @@
 # Regexper
 
+Clone from [GitLab](https://gitlab.com/javallone/regexper-static)，deployed on [GitHub Pages](https://herolink.github.io/regexper) by [Link Chen](https://github.com/HeroLink)
+
+* changed `page_top.handlebars`, some `href=""` labels
+* changed `package.json`, option `"homepage"`
+* deploy through [github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) by [James Ives](https://github.com/JamesIves)
+* refer to [repository](https://github.com/HeroLink/regexper)
+
+* origin author [Jeff Avallone](https://gitlab.com/javallone)
+
 Code for the http://regexper.com/ site.
 
 ## Contributing
